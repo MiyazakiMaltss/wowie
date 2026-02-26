@@ -19,8 +19,10 @@
   },
   "name":"wowie",
   "resources":[
+    {"id":{"name":"obPlayer","path":"objects/obPlayer/obPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"splayer","path":"sprites/splayer/splayer.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
