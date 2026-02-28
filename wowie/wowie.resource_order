@@ -1,8 +1,13 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obFlag","order":8,"path":"objects/obFlag/obFlag.yy",},
+    {"name":"obPlatform","order":6,"path":"objects/obPlatform/obPlatform.yy",},
     {"name":"obPlayer","order":2,"path":"objects/obPlayer/obPlayer.yy",},
+    {"name":"obSpike","order":4,"path":"objects/obSpike/obSpike.yy",},
+    {"name":"spFlag","order":7,"path":"sprites/spFlag/spFlag.yy",},
     {"name":"splayer","order":1,"path":"sprites/splayer/splayer.yy",},
-    {"name":"Sprite2","order":3,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"spPlatform","order":5,"path":"sprites/spPlatform/spPlatform.yy",},
+    {"name":"spSpike","order":3,"path":"sprites/spSpike/spSpike.yy",},
   ],
 }
