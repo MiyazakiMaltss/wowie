@@ -25,9 +25,7 @@ if (place_meeting(x, y + 1, oSolid)) { // if heidi is on the ground
         y_speed = 0; // set her y_speed to 0 so she doesn't fall through the ground
 
     }
-
 }
-
 if (place_meeting(x, y, oSpikes)) { // if heidi collides with the spikes
 
     room_restart() // restart the level
