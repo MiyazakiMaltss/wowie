@@ -30,6 +30,8 @@
     {"id":{"name":"lose","path":"rooms/lose/lose.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"uwon","path":"rooms/uwon/uwon.yy",},},
+    {"id":{"name":"boowomp","path":"sounds/boowomp/boowomp.yy",},},
+    {"id":{"name":"yay","path":"sounds/yay/yay.yy",},},
     {"id":{"name":"spFlag","path":"sprites/spFlag/spFlag.yy",},},
     {"id":{"name":"splayer","path":"sprites/splayer/splayer.yy",},},
     {"id":{"name":"spPlatform","path":"sprites/spPlatform/spPlatform.yy",},},

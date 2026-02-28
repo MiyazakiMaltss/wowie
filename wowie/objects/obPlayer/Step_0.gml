@@ -31,12 +31,14 @@ if (place_meeting(x, y + 1, obSolid)) { // if heidi is on the ground
 if (place_meeting(x, y, obSpike)) { // if heidi collides with the spikes
 
     room_goto(lose) // restart the level
+	audio_play_sound(boowomp, 1, false);
 
 }
 
 if (y > room_height or y < 0 or x > room_width or x < 0) { // if the player is outside of the room
 
-    room_restart(); 
+    room_goto(lose)
+	audio_play_sound(boowomp, 1, false);
 
 }
 
@@ -56,4 +58,5 @@ if keyboard_check(vk_right) {
 
 if (place_meeting(x, y, obFlag)) {
     room_goto_next(); // go to the next room/level
+	audio_play_sound(yay, 1, false);
 }

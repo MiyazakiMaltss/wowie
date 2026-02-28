@@ -11,6 +11,8 @@
     {"name":"obWin","order":11,"path":"objects/obWin/obWin.yy",},
     {"name":"lose","order":13,"path":"rooms/lose/lose.yy",},
     {"name":"uwon","order":10,"path":"rooms/uwon/uwon.yy",},
+    {"name":"boowomp","order":15,"path":"sounds/boowomp/boowomp.yy",},
+    {"name":"yay","order":16,"path":"sounds/yay/yay.yy",},
     {"name":"spFlag","order":7,"path":"sprites/spFlag/spFlag.yy",},
     {"name":"splayer","order":1,"path":"sprites/splayer/splayer.yy",},
     {"name":"spPlatform","order":5,"path":"sprites/spPlatform/spPlatform.yy",},
