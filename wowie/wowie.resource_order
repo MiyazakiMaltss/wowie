@@ -1,11 +1,16 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"MainText","order":12,"path":"fonts/MainText/MainText.yy",},
+    {"name":"losetxt","order":14,"path":"objects/losetxt/losetxt.yy",},
     {"name":"obFlag","order":8,"path":"objects/obFlag/obFlag.yy",},
     {"name":"obPlatform","order":6,"path":"objects/obPlatform/obPlatform.yy",},
     {"name":"obPlayer","order":2,"path":"objects/obPlayer/obPlayer.yy",},
     {"name":"obSolid","order":9,"path":"objects/obSolid/obSolid.yy",},
     {"name":"obSpike","order":4,"path":"objects/obSpike/obSpike.yy",},
+    {"name":"obWin","order":11,"path":"objects/obWin/obWin.yy",},
+    {"name":"lose","order":13,"path":"rooms/lose/lose.yy",},
+    {"name":"uwon","order":10,"path":"rooms/uwon/uwon.yy",},
     {"name":"spFlag","order":7,"path":"sprites/spFlag/spFlag.yy",},
     {"name":"splayer","order":1,"path":"sprites/splayer/splayer.yy",},
     {"name":"spPlatform","order":5,"path":"sprites/spPlatform/spPlatform.yy",},

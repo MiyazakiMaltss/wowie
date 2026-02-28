@@ -30,7 +30,7 @@ if (place_meeting(x, y + 1, obSolid)) { // if heidi is on the ground
 
 if (place_meeting(x, y, obSpike)) { // if heidi collides with the spikes
 
-    room_restart() // restart the level
+    room_goto(lose) // restart the level
 
 }
 
@@ -52,4 +52,8 @@ if keyboard_check(vk_right) {
 
     image_xscale = 1; // reset her sprite so she faces left
 
+}
+
+if (place_meeting(x, y, obFlag)) {
+    room_goto_next(); // go to the next room/level
 }
