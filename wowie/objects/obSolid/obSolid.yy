@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obPlatform",
+  "%Name":"obSolid",
   "eventList":[],
   "managed":true,
-  "name":"obPlatform",
+  "name":"obSolid",
   "overriddenProperties":[],
   "parent":{
     "name":"wowie",
     "path":"wowie.yyp",
   },
-  "parentObjectId":{
-    "name":"obSolid",
-    "path":"objects/obSolid/obSolid.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spPlatform",
-    "path":"sprites/spPlatform/spPlatform.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
