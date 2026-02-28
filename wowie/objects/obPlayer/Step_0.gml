@@ -27,3 +27,29 @@ if (place_meeting(x, y + 1, obSolid)) { // if heidi is on the ground
     }
 
 }
+
+if (place_meeting(x, y, obSpike)) { // if heidi collides with the spikes
+
+    room_restart() // restart the level
+
+}
+
+if (y > room_height or y < 0 or x > room_width or x < 0) { // if the player is outside of the room
+
+    room_restart(); 
+
+}
+
+if keyboard_check(vk_right) {
+
+    x_speed = movement_speed; 
+
+    image_xscale = -1; // flip heidi's sprite so she faces right
+
+} else if keyboard_check(vk_left) {
+
+    x_speed = -movement_speed; 
+
+    image_xscale = 1; // reset her sprite so she faces left
+
+}
