@@ -9,10 +9,7 @@
     "name":"wowie",
     "path":"wowie.yyp",
   },
-  "parentObjectId":{
-    "name":"obSolid",
-    "path":"objects/obSolid/obSolid.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

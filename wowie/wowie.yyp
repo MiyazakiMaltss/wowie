@@ -22,7 +22,6 @@
     {"id":{"name":"obFlag","path":"objects/obFlag/obFlag.yy",},},
     {"id":{"name":"obPlatform","path":"objects/obPlatform/obPlatform.yy",},},
     {"id":{"name":"obPlayer","path":"objects/obPlayer/obPlayer.yy",},},
-    {"id":{"name":"obSolid","path":"objects/obSolid/obSolid.yy",},},
     {"id":{"name":"obSpike","path":"objects/obSpike/obSpike.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spFlag","path":"sprites/spFlag/spFlag.yy",},},
